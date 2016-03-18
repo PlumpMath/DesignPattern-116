@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+   <bean id="userDao" class="com.business.dao.UserDaoImpl"/>
+   <bean id="userAction" class="com.business.action.UserAction"/>
+   <bean id="authorityFilter" class="com.business.filter.AuthorityFilterImpl"/>
+   <bean id="loginFilter" class="com.business.filter.LoginFilterImpl"/>
+</beans>

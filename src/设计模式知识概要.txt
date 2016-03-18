@@ -1,0 +1,19 @@
+1.设计模式是什么
+    设计貌似是一种解决问题的方案，而不是一种编程技术；固这种思路不仅局限于java技术
+2.设计模式的作用
+     降低耦合性
+     增加灵活性
+     增加代码重用性
+     增加增加代码可靠性
+ 3.java模式简介
+     1）java有24种设计模式；可分为三大类：创建模式、结构模式、行为模式
+     2）分别列举这些模式
+         创建模式：创建对象，包含的设计模式有：
+               工厂模式(factory)、抽象工厂模式、建造者模式(builder)、单例模式(singleton)、原型模式(prototype)
+         结构模式：
+                适配器模式(adapter)、装饰者模式(decorator)、享元模式(flyweight)、代理模式(proxy)、静态代理、动态代理、
+                桥接模式(bridge)、门面模式(facade)、组合模式(composite)
+        行为模式：
+                中介模式(state)、观察者模式(observer)、责任链模式(chain)、命令模式(command)、解析器模式(Interpreter)
+                迭代器模式(iterator)、备忘录模式(memento)、策略模式(statrgy)、中介模式(mediator)
+                模板模式(template)、访问者模式(visitor)、生产者消费者模式
