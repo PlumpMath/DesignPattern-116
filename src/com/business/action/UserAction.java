@@ -1,14 +1,13 @@
 package com.business.action;
 
 import com.business.dao.UserDao;
-import com.design.create.factory.BeanFactory;
+import design.create.factory.BeanFactory;
 /**
  * 
  * @Title: UserAction.java
  * @Copyright: Copyright (c) 2005
  * @Description: <br>
  *               <br>操作类
- * @Company: 17K
  * @Created on 2015年7月31日 上午11:28:11
  * @author yangkai
  */

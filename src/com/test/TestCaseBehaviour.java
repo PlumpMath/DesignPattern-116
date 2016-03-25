@@ -4,15 +4,12 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import com.design.behaviour.observer.ProductObservable;
-import com.design.behaviour.observer.CustomerObserver;
-import com.design.behaviour.strategy.CatHeightJdkComparator;
-import com.design.behaviour.strategy.CatJdk;
-import com.design.behaviour.strategy.custom.CatCustom;
-import com.design.behaviour.strategy.custom.CatHeightCustomComparator;
-import com.design.behaviour.strategy.custom.CatWeightCustomComparator;
-import com.design.behaviour.strategy.custom.CollectionsStrategy;
-import com.design.behaviour.strategy.custom.ComparatorStrategy;
+import design.behaviour.observer.ProductObservable;
+import design.behaviour.observer.CustomerObserver;
+import design.behaviour.strategy.CatHeightJdkComparator;
+import design.behaviour.strategy.CatJdk;
+import design.behaviour.strategy.custom.CatHeightCustomComparator;
+import design.behaviour.strategy.custom.CatWeightCustomComparator;
 
 /**
  * 
@@ -21,7 +18,6 @@ import com.design.behaviour.strategy.custom.ComparatorStrategy;
  * @Description: <br>
  * <br>
  *               测试用例；测试行为模式
- * @Company: 17K
  * @Created on 2015年7月31日 上午11:21:31
  * @author yangkai
  */

@@ -9,13 +9,13 @@ import com.business.dao.UserDao;
 import com.business.filter.AuthorityFilter;
 import com.business.filter.BaseFilter;
 import com.business.filter.LoginFilter;
-import com.design.create.factory.BeanFactory;
-import com.design.structure.adapter.AdapterBoth;
-import com.design.structure.adapter.AdapterSingle;
-import com.design.structure.decorator.LogDecorator;
-import com.design.structure.proxy.staticProxy.UserDaoProxy;
-import com.design.structure.template.FloatBubbleSortter;
-import com.design.structure.template.IntBubbleSortter;
+import design.create.factory.BeanFactory;
+import design.structure.adapter.AdapterBoth;
+import design.structure.adapter.AdapterSingle;
+import design.structure.decorator.LogDecorator;
+import design.structure.proxy.staticProxy.UserDaoProxy;
+import design.structure.template.FloatBubbleSortter;
+import design.structure.template.IntBubbleSortter;
 
 /**
  * 
@@ -24,7 +24,6 @@ import com.design.structure.template.IntBubbleSortter;
  * @Description: <br>
  * <br>
  *               测试用例；测试结构模式
- * @Company: 17K
  * @Created on 2015年7月31日 上午11:21:31
  * @author yangkai
  */

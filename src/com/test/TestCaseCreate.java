@@ -4,7 +4,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 import com.business.action.UserAction;
-import com.design.create.factory.BeanFactory;
+import design.create.factory.BeanFactory;
 
 /**
  * 
@@ -13,7 +13,6 @@ import com.design.create.factory.BeanFactory;
  * @Description: <br>
  * <br>
  *               测试用例；测试创建模式
- * @Company: 17K
  * @Created on 2015年7月31日 上午11:21:31
  * @author yangkai
  */

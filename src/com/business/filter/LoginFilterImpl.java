@@ -8,7 +8,6 @@ package com.business.filter;
  * @Copyright: Copyright (c) 2005
  * @Description: <br>
  * <br>
- * @Company: 17K
  * @Created on 2015年7月31日 上午11:52:19
  * @author yangkai
  */

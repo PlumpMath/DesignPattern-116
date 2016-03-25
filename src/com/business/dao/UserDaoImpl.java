@@ -4,7 +4,7 @@ import org.apache.ibatis.session.SqlSession;
 
 import com.business.bean.User;
 import com.business.mapper.UserMapper;
-import com.design.structure.flyweight.MybatisSessionFlyweight;
+import design.structure.flyweight.MybatisSessionFlyweight;
 
 /**
  * 
@@ -12,7 +12,6 @@ import com.design.structure.flyweight.MybatisSessionFlyweight;
  * @Copyright: Copyright (c) 2005
  * @Description: <br>
  *               <br>数据库操作实现类
- * @Company: 17K
  * @Created on 2015年7月31日 上午11:28:29
  * @author yangkai
  */
